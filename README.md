@@ -9,7 +9,7 @@
 
 
 # 💫 About Me :
-- 🔭 I’m Senior Software Engineer @ 10pearls LLC.
+- 🔭 I’m Staff Software Engineer @ 10pearls LLC.
 - 🌱 I’m currently learning more about AWS.
 - 💬 Ask me about Kotlin/Spring Related Stuff
 - 📫 How to reach me: Check social links below.
